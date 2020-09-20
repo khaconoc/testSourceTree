@@ -1,21 +1,6 @@
-
-1
-2
-a
-3
-b
-4
-c
-5
-
-11
-11
-22
-22
-33
-33
-44
-44
-55
-55
-
+function a(a){
+    console.log(a);
+}
+function b(b){
+    console.log(b);
+}
