@@ -16,3 +16,4 @@ function d(d){
 function a1(a1){
     console.log(a1);
 }
+function a2(a2){}
