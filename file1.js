@@ -13,3 +13,6 @@ function e(e){
 function d(d){
     console.log(d);
 }
+function g(g){
+    
+}
