@@ -10,3 +10,6 @@ function c(c){
 function e(e){
     console.log(e);
 }
+function d(d){
+    console.log(d);
+}
