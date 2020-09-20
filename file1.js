@@ -7,3 +7,6 @@ function b(b){
 function c(c){
     console.log(c);
 }
+function e(e){
+    console.log(e);
+}
